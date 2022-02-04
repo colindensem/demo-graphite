@@ -1,4 +1,4 @@
 # demo-graphite
 
-# Change One
+## Change One
 Outline of a new feature
