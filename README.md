@@ -4,7 +4,7 @@
 Outline of a new feature 1
 
 ## Change Two
-Outline of a new feature
+Outline of a new feature 2
 
 ## Change Three
 Outline of a new feature
