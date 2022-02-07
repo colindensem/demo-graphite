@@ -1,7 +1,7 @@
 # demo-graphite
 
 ## Change One
-Outline of a new feature
+Outline of a new feature 1
 
 ## Change Two
 Outline of a new feature
