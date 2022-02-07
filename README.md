@@ -15,3 +15,5 @@ Outline of a new feature
 ## Change five
 Outline of a new feature
 
+## Change six
+Outline of a new feature
